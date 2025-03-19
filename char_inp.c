@@ -14,7 +14,7 @@ int main()
 
     // return 0;
     
-
+//Name input
     char name[25];
     int age;
 
